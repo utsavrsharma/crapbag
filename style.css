@@ -1,10 +1,16 @@
-h1{ text-color:	#00ff00;
-  text-shadow:
-      0 0 7px #fff,
-      0 0 10px #fff,
-      0 0 21px #fff,
-      0 0 42px #0fa,
-      0 0 82px #0fa,
-      0 0 92px #0fa,
-      0 0 102px #0fa,
-    0 0 151px #0fa;}
+body{background-color:#D8D8D8}
+hr{ background-color:#D8D8D8;
+    border-style:dotted none none;
+    height:0px;
+    width:10%;
+    border-width:5px;}
+    h1{font-family: papyrus,copperplate,fantasy ;
+      text-shadow: 0px 0px 8px rgb(77, 76, 76);
+     
+
+  }
+  h3,h2{font-family: "comic sans ms",florence,cursive; ;
+  }
+  #litter:hover{box-shadow:  0 0 5px #fff, 0 0 10px #fff, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 25px #ffa500, 0 0 30px #ffa500, 0 0 35px #ffa500;
+      border-radius: 100%;
+  }
